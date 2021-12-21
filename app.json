@@ -1,0 +1,18 @@
+{
+    "id": "d2f2e75c-27c6-4a44-ab1c-dc74f62f1bf6",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.29.0-alpha.0.5706",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Email Badge",
+        "homepage": "Email Badge",
+        "support": "Email Badge"
+    },
+    "name": "Email Badge",
+    "nameSlug": "email-badge",
+    "classFile": "EmailBadgeApp.ts",
+    "description": "Email Badge",
+    "implements": [
+        "IPreEmailSent"
+    ]
+}
